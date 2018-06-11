@@ -1,5 +1,5 @@
-# broadCast.js
-Contains ws connection handling.
+# Broadcast
+Contains ws connection handling for a personal project.
 ## Boilerplate
 Simple example of getting broadcast.js upp and running
 ```
